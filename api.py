@@ -78,7 +78,7 @@ import requests
 def generate_advice_with_gpt2(battery_temp, ambient_temp, device_state, pred_impact):
     try:
         response = requests.post(
-            "https://iRajVerma-thermosense-gradio.hf.space/run/predict",  # replace with your Space URL and endpoint
+            "https://tanushris-thermosense-gradio.hf.space/run/predict",  # replace with your Space URL and endpoint
             json={
                 "battery_temp": battery_temp,
                 "ambient_temp": ambient_temp,
