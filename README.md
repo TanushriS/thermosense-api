@@ -2,7 +2,7 @@
 
 This is the **ML + GPT-2 powered FastAPI backend** for the ThermoSense platform.
 
-### 📡 Dashboard 
+### 📡 Live Link 
 👉 [https://thermosense.com](https://thermosense-ui-psi.vercel.app/)
 
 ### 🖥️ Live dashboard
@@ -58,9 +58,9 @@ This is the **ML + GPT-2 powered FastAPI backend** for the ThermoSense platform.
 
 ### 🖥️ Hugging Face Spaces Live
 ![Live Space](https://github.com/TanushriS/assets/blob/main/Hugging%20Face%20API%20Live.png)
-
 ### 🖥️ Hugging Face API Interface
 ![Live Space](https://github.com/TanushriS/assets/blob/main/HF%20API%20Interface.png)
+
 
 ## 🚀 How to Run Locally
 
